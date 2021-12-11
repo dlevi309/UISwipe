@@ -1,0 +1,9 @@
+Package: daniel.uiswipe
+Name: UISwipe
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Swipe out an apps UI for another, select individual iPhone apps to run as if they were built for the iPad.
+Maintainer: daniel
+Author: daniel
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist (>= 1.0.4)
