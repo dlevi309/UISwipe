@@ -10,5 +10,6 @@ Select individual iPhone apps to run as if they were built for the iPad. Require
 ### TODO
 
 - Get the keyboard to retain the native iPhone UI on applied applications
-- Integrate some sort of notification to apply the tweak to selected apps without having to open & quit it twice
-- Buy eggs and cheese from Pavilions, see https://www.pavilions.com/ for more info
+- Integrate some sort of notification to apply the tweak to selected apps without having to open & quit it twice (a behavior with only stock iOS apps)
+- Support all of the UIidioms (CarPlay, Watch, TV, etc.)
+- Buy eggs and cheese from Pavilions, see [this page](https://www.pavilions.com/) for more info

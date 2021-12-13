@@ -1,7 +1,7 @@
 #define tweakIdentifier @"daniel.uiswipe"
 #define CHECK_TARGET
 
-#import "../PS.h"
+#import "../PSHeader/PS.h"
 #import "../PSPrefs/PSPrefs.x"
 
 static BOOL shouldEnableForBundleIdentifier(NSString *bundleIdentifier) {
